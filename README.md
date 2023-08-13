@@ -3,9 +3,11 @@
 
 ## Education
 
-### - 2015.03 ~ 2022.08 | Soongsil University
+### - 2023.07 ~ | Yura Corporation - Video SW design middleware part
 
 ### - 2022.07 ~ 2023.06 | SSAFY(Samsung SoftWare Academy for youth)
+
+### - 2015.03 ~ 2022.08 | Bachelor of Science in Electrical Engineering, Soongsil University
 
 
 ## Projects
